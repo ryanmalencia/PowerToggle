@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PowerSwitch</string>
+    <string name="wait_message">Toggling Power&#8230;</string>
+</resources>
