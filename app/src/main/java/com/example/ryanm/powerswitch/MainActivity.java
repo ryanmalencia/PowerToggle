@@ -12,7 +12,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 public class MainActivity extends AppCompatActivity {
-    static final String api_url = "http://192.168.1.201/";
+    static final String api_url = "http://10.0.0.192/";
     static final String filename = "togglepower.php";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
